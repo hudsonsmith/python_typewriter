@@ -1,7 +1,3 @@
-<div text-align="center">
-  
-  # Python Typewriter
-  
-</div>
+# Python Typewriter
 
 A python typewriter animation made in python.
